@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8caaf4aa-193a-4a00-998a-8efce01f5d99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/hw1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/Delete_Node_in_a_Linked_List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/Merge_two_sorted_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/Sqrt(x).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/learngitbranching2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/learningitbranching.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/majority_element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/reverse_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/test_majority_element.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yBOR5FzNCAjT0kfVtMs6DIvZPE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8caaf4aa-193a-4a00-998a-8efce01f5d99" name="Default Changelist" comment="" />
+      <created>1631721508973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631721508973</updated>
+    </task>
+    <servers />
+  </component>
+</project>
